@@ -1,7 +1,5 @@
-i am a back-end developer.
-love to code...
+I'm a passionate MERN stack developer who thrives on building clean, scalable, and high-performance web applications. Whether it's crafting seamless user experiences with React or architecting robust backend systems with Node.js and MongoDB, I love turning ideas into reliable, maintainable code.
 
-<!---
-arjun-p-s/arjun-p-s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+What truly drives me is problem solving—I enjoy breaking down complex challenges and finding elegant, efficient solutions through code. From debugging tricky issues to optimizing performance, I'm always looking for ways to improve and innovate.
+
+Constantly learning, continuously building.
