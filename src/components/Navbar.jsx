@@ -13,7 +13,7 @@ const Navbar = () => {
           <div className="links">
             <Link to="/" spy={true} smooth={true} offset={-60} duration={500}>
               Arjun P S
-            </Link>
+            </Link>{" "}
             <Link
               to="about"
               spy={true}

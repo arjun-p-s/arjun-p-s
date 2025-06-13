@@ -332,3 +332,7 @@ footer {
 .links:hover {
   cursor: pointer;
 }
+.logo-image {
+  width: 30px;
+  height:30px;
+}
