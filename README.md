@@ -17,16 +17,10 @@ Explore microservices & system design
 
 ⭐ Projects I Enjoy
 
-Codetie — real-time chat + video calling
+[Codetie](./Codetie) — real-time chat + video calling
 
 UI & animation experiments
 
 End-to-end MERN apps
 
-🎨 Tools I Like
 
-VS Code • Postman • GitHub • Figma  • Cursor
-
-🧩 Fun Stuff
-
-Football • Gym • Building random ideas
