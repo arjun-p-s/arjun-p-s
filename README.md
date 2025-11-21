@@ -1,5 +1,32 @@
-I'm a passionate MERN stack developer who thrives on building clean, scalable, and high-performance web applications. Whether it's crafting seamless user experiences with React or architecting robust backend systems with Node.js and MongoDB, I love turning ideas into reliable, maintainable code.
+👋 Hi, I'm Arjun
 
-What truly drives me is problem solving—I enjoy breaking down complex challenges and finding elegant, efficient solutions through code. From debugging tricky issues to optimizing performance, I'm always looking for ways to improve and innovate.
+Full-stack developer (MERN) who loves building clean, fast, and interactive products.
 
-Constantly learning, continuously building.
+I mostly work with React, Node, MongoDB, TypeScript, Tailwind, Chakra UI, Docker, kubernetes and Framer Motion.<br>
+If something sparks an idea, I’ll probably build it.
+
+🚀 What I Do
+
+Build full-stack apps
+
+Create smooth UI animations
+
+Work with real-time features (Socket.IO / WebRTC)
+
+Explore microservices & system design
+
+⭐ Projects I Enjoy
+
+Codetie — real-time chat + video calling
+
+UI & animation experiments
+
+End-to-end MERN apps
+
+🎨 Tools I Like
+
+VS Code • Postman • GitHub • Figma  • Cursor
+
+🧩 Fun Stuff
+
+Football • Gym • Building random ideas
