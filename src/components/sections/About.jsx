@@ -50,8 +50,6 @@ export default function About() {
                 className="w-full h-full object-cover relative z-10"
               />
             </div>
-            {/* Decorative Element */}
-            <div className="absolute -bottom-10 -right-10 w-40 h-40 border-2 border-[var(--accent-primary)] rounded-full opacity-20 animate-pulse"></div>
           </motion.div>
         </div>
       </div>

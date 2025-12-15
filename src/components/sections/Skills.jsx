@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import GeometricBackground from '../3d/GeometricBackground';
+// import GeometricBackground from '../3d/GeometricBackground';
 
 const skills = [
   { category: "Frontend ", items: ["React", "Redux", "TypeScript", "Next.js", "Three.js", "Tailwind CSS", "Framer Motion", "Emotion CSS", "WebGL"] },
@@ -10,7 +10,7 @@ const skills = [
 export default function Skills() {
   return (
     <section id="skills" className="section-padding relative">
-      <GeometricBackground />
+      {/* <GeometricBackground /> */}
       <div className="container mx-auto px-6 relative z-10">
         <h2 className="text-4xl md:text-5xl font-bold mb-16 text-center">Technical <span className="text-gradient">Skills</span></h2>
 
